@@ -1,0 +1,48 @@
+.navbar-inverse{
+	border-color: #428bca;
+}
+
+.navbar-inverse .navbar-toggle{
+	border-color: #428bca;
+}
+.navbar-inverse .navbar-toggle:hover{
+	border-color: #428bca;
+	opacity: 0.5;
+}
+.navbar-inverse .navbar-toggle:focus{
+	border-color: #428bca;
+	opacity: 0.5;
+}
+.navbar-inverse .navbar-collapse{
+	border-color: #428bca;
+}
+
+
+.pm-nav{
+	background-color: #428bca;
+}
+
+
+
+.pm-nav .navbar-header .navbar-brand,.pm-nav .navbar-header .navbar-brand:hover{
+	color: white;
+}
+
+
+.pm-nav .navbar-nav>li{
+	background-color: #428bca;
+}
+.pm-nav .navbar-nav>li:hover{
+	background-color: white;
+}
+
+.pm-nav .navbar-nav>li>a{
+	color: white;
+}
+.pm-nav .navbar-nav>li>a:hover{
+	color: #428bca;
+}
+
+
+
+
