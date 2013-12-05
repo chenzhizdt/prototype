@@ -1,3 +1,12 @@
+body {
+	position: relative;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.navbar{
+	border:0;
+}
 .navbar-inverse{
 	border-color: #428bca;
 }
@@ -36,11 +45,17 @@
 	background-color: white;
 }
 
+
 .pm-nav .navbar-nav>li>a{
 	color: white;
 }
 .pm-nav .navbar-nav>li>a:hover{
 	color: #428bca;
+}
+
+.pm-nav .navbar-nav>.active>a, .pm-nav .navbar-nav>.active>a:hover{
+	color: #428bca;
+	background-color: white;
 }
 
 
