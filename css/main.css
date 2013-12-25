@@ -8,27 +8,27 @@ body {
 	border:0;
 }
 .navbar-inverse{
-	border-color: #428bca;
+	border-color: #336699;
 }
 
 .navbar-inverse .navbar-toggle{
-	border-color: #428bca;
+	border-color: #336699;
 }
 .navbar-inverse .navbar-toggle:hover{
-	border-color: #428bca;
+	border-color: #336699;
 	opacity: 0.5;
 }
 .navbar-inverse .navbar-toggle:focus{
-	border-color: #428bca;
+	border-color: #336699;
 	opacity: 0.5;
 }
 .navbar-inverse .navbar-collapse{
-	border-color: #428bca;
+	border-color: #336699;
 }
 
 
 .pm-nav{
-	background-color: #428bca;
+	background-color: #336699;
 }
 
 
@@ -39,7 +39,7 @@ body {
 
 
 .pm-nav .navbar-nav>li{
-	background-color: #428bca;
+	background-color: #336699;
 }
 .pm-nav .navbar-nav>li:hover{
 	background-color: white;
@@ -50,11 +50,11 @@ body {
 	color: white;
 }
 .pm-nav .navbar-nav>li>a:hover{
-	color: #428bca;
+	color: #336699;
 }
 
 .pm-nav .navbar-nav>.active>a, .pm-nav .navbar-nav>.active>a:hover{
-	color: #428bca;
+	color: #336699;
 	background-color: white;
 }
 
@@ -64,4 +64,8 @@ body {
 
 .pd10{
 	padding:10px;
+}
+
+.thumbnail > img {
+	width: 200px;
 }
